@@ -1,0 +1,5 @@
+#Copia este archivo como application-local.properties (en esta misma carpeta) y pon tus datos.
+#application-local.properties esta en .gitignore, asi que tus credenciales nunca se suben a GitHub.
+spring.datasource.url=jdbc:mysql://localhost:3306/zona_fit_db
+spring.datasource.username=root
+spring.datasource.password=tu_password
